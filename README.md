@@ -1,6 +1,6 @@
 # image-downloader
-```
+
 create `images` folder
-npm i
-node index.js
-```
+run `yarn` or `npm i`
+run `node index.js`
+
